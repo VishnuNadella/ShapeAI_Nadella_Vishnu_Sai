@@ -4,7 +4,6 @@
   "description": "my first Node and Express Server BMI Calculator",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Vishnu Nadella",
